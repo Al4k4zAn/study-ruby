@@ -1,2 +1,2 @@
 # study-ruby
-My class
+My Ruby class
