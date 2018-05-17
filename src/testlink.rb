@@ -27,10 +27,11 @@ begin
 
     case @opcao
     when 1
-        acidiona_ct
+        adiciona_ct
     when 2
         lista_cts
-    end 
+    else 
         puts 'Opcoes invalidas'
+    end
+
 end while @opcao != 3
-        
