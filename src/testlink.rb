@@ -35,5 +35,4 @@ case @opcao
     else
         puts 'Opcoes INvalidas'
     end
-
 end while @opcao != 3
